@@ -65,6 +65,10 @@ export const GET = async (req: Request) => {
               },
             ],
           },
+          {
+            label: "投掷骰子",
+            href: `https://www.baidu.com`,
+          },
         ],
       },
     };
